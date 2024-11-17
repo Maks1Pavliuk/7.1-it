@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yande\\source\\repos\\7.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{149F568A-EBE7-4ACE-B7CD-EC1DC1BF3262}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\yande\\source\\repos\\7.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{149F568A-EBE7-4ACE-B7CD-EC1DC1BF3262}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{142A6CC3-368E-46FC-A54F-D9CAC83A3F35}|7.1\\7.1.vcxproj|C:\\Users\\yande\\source\\repos\\7.1\\7.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{142A6CC3-368E-46FC-A54F-D9CAC83A3F35}|7.1\\7.1.vcxproj|solutionrelative:7.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\yande\\source\\repos\\7.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\yande\\source\\repos\\7.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwD0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T16:33:28.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\yande\\source\\repos\\7.1\\7.1\\Source.cpp",
+              "RelativeDocumentMoniker": "7.1\\Source.cpp",
+              "ToolTip": "C:\\Users\\yande\\source\\repos\\7.1\\7.1\\Source.cpp",
+              "RelativeToolTip": "7.1\\Source.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T17:02:53.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
